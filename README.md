@@ -25,3 +25,9 @@
 - [Webpack :: 필수 기본 설정 (webpack.core.js)](<https://github.com/mireyhgnay/fe-monorepo/blob/main/MonoRepo/webpack/Webpack%20%3A%3A%20%ED%95%84%EC%88%98%20%EA%B8%B0%EB%B3%B8%20%EC%84%A4%EC%A0%95%20(webpack.core.js).md>)
 - [Webpack :: Loader 종류](https://github.com/mireyhgnay/fe-monorepo/blob/main/MonoRepo/webpack/Webpack%20%3A%3A%20Loader%20%EC%A2%85%EB%A5%98.md)
 - [Webpack :: ProvidePlugin](https://github.com/mireyhgnay/fe-monorepo/blob/main/MonoRepo/webpack/Webpack%20%3A%3A%20ProvidePlugin.md)
+
+<br />
+
+### 회고
+
+- [모노레포 프로젝트 진행하며...✍🏻](https://hyerimiya.notion.site/c9bdfb7b677846c3b041d5571c13c4ba?pvs=4)
